@@ -1,0 +1,18 @@
+2024-09-05 14:01:23.9091 DEBUG 06-Mar-24 12:00:00 AM
+2024-09-05 14:01:24.0231 DEBUG 06-Mar-25 12:00:00 AM
+2024-09-05 14:02:33.4199 DEBUG ysankar74@gmail.com
+2024-09-05 14:02:34.1181 DEBUG ysankar74@gmail.com
+2024-09-05 14:04:07.3190 ERROR    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at DataRooms.UI.Code.Email.SendEmail.SendTestEmail(String from, String to) in C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.UI\Code\Email\EmailHelper.cs:line 564
+2024-09-05 14:04:17.1139 DEBUG ysankar74@gmail.com
+2024-09-05 14:04:17.6866 DEBUG ysankar74@gmail.com
+2024-09-05 14:05:16.2700 ERROR    at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at DataRooms.UI.Code.Email.SendEmail.SendTestEmail(String from, String to) in C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.UI\Code\Email\EmailHelper.cs:line 572
+2024-09-05 14:20:55.4725 DEBUG 06-Mar-24 12:00:00 AM
+2024-09-05 14:20:55.5887 DEBUG 06-Mar-25 12:00:00 AM
+2024-09-05 14:21:23.8902 DEBUG ysankar74@gmail.com
+2024-09-05 14:21:24.4168 DEBUG ysankar74@gmail.com
+2024-09-05 14:23:23.9015 ERROR    at DataRooms.UI.Code.Email.SendEmail.SendingEmail(EmailObject emailObject, SmtpClient mailServer, EmailConfiguration emailConfig, String toEmail) in C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.UI\Code\Email\EmailHelper.cs:line 658
+   at DataRooms.UI.Code.Email.SendEmail.SendTestEmail(String from, String to) in C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.UI\Code\Email\EmailHelper.cs:line 574
+2024-09-05 14:23:42.7847 DEBUG ysankar74@gmail.com
+2024-09-05 14:23:42.7847 DEBUG ysankar74@gmail.com

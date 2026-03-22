@@ -1,0 +1,39 @@
+﻿<style>
+    label {
+        font-weight: bold;
+    }
+</style>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+<div class="container" style="padding-top: 70px;">
+    <div class="card" style="padding:50px;">
+        <form method="post"  action="@Url.Action("SendTestEmail","SmtpTest",new { area = "Home"})" >
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="email">From Email</label>
+                        <input type="text" class="form-control" id="txtFromEmail" name="from" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="email">To Email</label>
+                        <input type="text" class="form-control" id="txtToEmail" name="to" />
+                    </div>
+                </div>
+            </div>
+            <div>
+                <input type="submit" class="btn btn-success" value="Send" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+    if ("@TempData["ErrMessage"]"!=null && "@Convert.ToString(TempData["ErrMessage"])") {
+        alert("@Convert.ToString(TempData["ErrMessage"])");
+    }
+</script>
