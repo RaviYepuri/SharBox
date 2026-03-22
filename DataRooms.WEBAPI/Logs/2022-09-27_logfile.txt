@@ -1,0 +1,59 @@
+2022-09-27 00:59:49.4974 DEBUG Enter into login
+2022-09-27 01:15:56.3990 DEBUG Enter into login
+2022-09-27 01:22:21.3893 DEBUG Enter into login
+2022-09-27 11:57:31.3582 DEBUG Enter into login
+2022-09-27 11:58:00.8434 DEBUG Web Service--0
+2022-09-27 11:58:12.7382 ERROR Failed executing DbCommand (19ms) [Parameters=[@p22='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (DbType = Int32), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (DbType = DateTime2), @p7='?' (Size = 4000), @p8='?' (DbType = Int32), @p9='?' (Size = 4000), @p10='?' (DbType = Boolean), @p11='?' (DbType = Boolean), @p12='?' (DbType = Boolean), @p13='?' (DbType = Boolean), @p14='?' (DbType = Boolean), @p15='?' (DbType = Int32), @p16='?' (Size = 4000), @p17='?' (DbType = Int32), @p18='?' (DbType = DateTime2), @p19='?' (Size = 4000), @p20='?' (DbType = Int32), @p21='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [ItemTrackerPermission] SET [CreatedBy] = @p0, [CreatedOn] = @p1, [CreatorName] = @p2, [DataRoomId] = @p3, [DataRoomName] = @p4, [DeletedBy] = @p5, [DeletedOn] = @p6, [DeletorName] = @p7, [FolderId] = @p8, [FolderName] = @p9, [HasDelete] = @p10, [HasFullControl] = @p11, [HasRead] = @p12, [HasWrite] = @p13, [IsActive] = @p14, [ItemTrackerId] = @p15, [ItemTrackerName] = @p16, [ModifiedBy] = @p17, [ModifiedOn] = @p18, [ModifierName] = @p19, [UserId] = @p20, [UserName] = @p21
+WHERE [Id] = @p22;
+SELECT @@ROWCOUNT;
+2022-09-27 11:58:12.7972 ERROR An exception occurred in the database while saving changes for context type 'DataRooms.DataRepository.SqlServerContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:c0312870-485e-4cbc-a91a-2369c407f5a0
+Error Number:242,State:3,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-09-27 11:58:13.0664 ERROR An unhandled exception has occurred while executing the request.
+2022-09-27 12:00:21.1406 DEBUG Web Service--0
+2022-09-27 12:02:57.9325 DEBUG Enter into login
+2022-09-27 12:02:57.9410 DEBUG Enter into login
+2022-09-27 12:03:11.7877 DEBUG Enter into login
+2022-09-27 12:13:29.9381 DEBUG Enter into login
+2022-09-27 12:17:53.1375 DEBUG Enter into login
+2022-09-27 12:21:53.7626 DEBUG Enter into login
+2022-09-27 12:30:08.5892 DEBUG Enter into login
+2022-09-27 12:33:40.7162 DEBUG Enter into login
+2022-09-27 12:37:47.7797 DEBUG Enter into login
+2022-09-27 12:54:11.4292 DEBUG Enter into login
+2022-09-27 13:00:21.3908 DEBUG Web Service--0
+2022-09-27 13:26:56.6289 DEBUG Enter into login
+2022-09-27 14:41:07.9700 DEBUG Web Service--0
+2022-09-27 15:00:21.0895 DEBUG Web Service--0
+2022-09-27 15:01:19.2930 DEBUG Enter into login
+2022-09-27 15:11:16.9160 DEBUG Enter into login
+2022-09-27 16:01:41.5543 DEBUG Enter into login
+2022-09-27 16:42:27.6391 DEBUG Enter into login
+2022-09-27 17:01:09.8502 DEBUG Enter into login
+2022-09-27 17:07:28.4122 DEBUG Enter into login
+2022-09-27 17:16:33.4475 DEBUG Enter into login
+2022-09-27 17:57:20.7440 DEBUG Enter into login
+2022-09-27 18:00:21.2369 DEBUG Web Service--0

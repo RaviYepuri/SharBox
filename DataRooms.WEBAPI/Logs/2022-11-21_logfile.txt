@@ -1,0 +1,8 @@
+2022-11-21 13:09:45.8908 INFO Application started. Press Ctrl+C to shut down.
+2022-11-21 13:09:45.9507 INFO Hosting environment: Development
+2022-11-21 13:09:45.9697 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-11-21 13:09:46.9212 ERROR An unhandled exception has occurred while executing the request.
+2022-11-21 13:10:36.3178 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-11-21 13:10:40.5340 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-21 13:10:41.3520 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-21 13:11:27.7493 DEBUG Enter into login

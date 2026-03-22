@@ -1,0 +1,29 @@
+2022-11-15 13:28:45.3381 INFO Application started. Press Ctrl+C to shut down.
+2022-11-15 13:28:45.3947 INFO Hosting environment: Development
+2022-11-15 13:28:45.3947 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-11-15 13:28:46.9178 ERROR An unhandled exception has occurred while executing the request.
+2022-11-15 13:31:12.7211 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-11-15 13:31:17.4921 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-15 13:31:18.5717 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-15 13:34:58.1870 DEBUG Enter into login
+2022-11-15 13:40:19.9751 DEBUG Enter into login
+2022-11-15 13:51:10.9456 INFO Application started. Press Ctrl+C to shut down.
+2022-11-15 13:51:10.9848 INFO Hosting environment: Development
+2022-11-15 13:51:10.9848 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-11-15 13:51:11.8578 ERROR An unhandled exception has occurred while executing the request.
+2022-11-15 13:55:46.4751 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-11-15 14:00:21.6113 DEBUG Web Service--0
+2022-11-15 14:21:46.4283 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-15 14:21:46.9032 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-15 14:36:04.3223 DEBUG Enter into login
+2022-11-15 14:59:23.5651 DEBUG Enter into login
+2022-11-15 15:00:21.5113 DEBUG Web Service--0
+2022-11-15 15:06:10.1381 DEBUG Enter into login
+2022-11-15 19:20:08.1573 DEBUG Web Service--0
+2022-11-15 19:21:47.6921 DEBUG Enter into login
+2022-11-15 19:49:54.0708 DEBUG Enter into login
+2022-11-15 19:55:16.7189 DEBUG Enter into login
+2022-11-15 20:00:54.0434 DEBUG Web Service--0
+2022-11-15 20:04:01.6470 DEBUG Enter into login
+2022-11-15 20:09:26.0890 DEBUG Enter into login
+2022-11-15 20:17:29.5203 DEBUG Enter into login

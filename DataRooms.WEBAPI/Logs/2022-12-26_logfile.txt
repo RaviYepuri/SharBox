@@ -1,0 +1,15 @@
+2022-12-26 18:55:27.5055 INFO Application started. Press Ctrl+C to shut down.
+2022-12-26 18:55:27.5551 INFO Hosting environment: Development
+2022-12-26 18:55:27.5551 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-12-26 18:55:29.6049 ERROR An unhandled exception has occurred while executing the request.
+2022-12-26 18:57:54.1031 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-12-26 18:57:55.0475 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-12-26 19:00:00.6383 DEBUG Web Service--0
+2022-12-26 19:01:33.2488 DEBUG Enter into login
+2022-12-26 19:03:32.0567 DEBUG Enter into login
+2022-12-26 19:25:58.3527 DEBUG Enter into Update Method..
+2022-12-26 19:25:58.3668 DEBUG {"Id":1,"DataRoomName":"Perf Management","Description":"Testing","DataRoomSize":null,"RelativePath":"C:\\SharBoxWorkingSpace\\EBX/1/1","Guid":"98f6cd8e-6ed1-4a0f-b2d9-cab1e4d90fa5","IsArchivalRequired":true,"IsDeletionRequired":null,"IsLogsRequired":true,"ArchivalPeriod":"15","DeletionPeriod":null,"RetentionPeriod":"15","IsWorkFlowRequired":false,"IsActive":true,"CreatedBy":11,"CreatorName":"Ravi","CreatedOn":"2022-12-26T19:25:53.0943258+05:30","ModifiedBy":null,"ModifierName":null,"ModifiedOn":null,"DeletedBy":null,"DeletorName":null,"DeletedOn":null,"CompanyId":1,"CompanyName":"EBX","WorkFlowId":0,"WorkFlowName":null,"ArchivalBasedOn":"Created Date","RetentionBasedOn":"Created Date","DeletionBasedOn":null,"ArchivalType":"Local","ArchivalPath":null,"ArchivalAWSAccessKey":null,"ArchivalAWSSecurityKey":null,"ArchivalAWSRegion":null}
+2022-12-26 19:25:58.3843 DEBUG Exit from Update Method..
+2022-12-26 20:00:00.3618 DEBUG Web Service--0
+2022-12-26 21:00:00.1466 DEBUG Web Service--0
+2022-12-26 22:00:00.1162 DEBUG Web Service--0

@@ -1,0 +1,14 @@
+2023-05-02 10:57:45.4490 INFO Application started. Press Ctrl+C to shut down.
+2023-05-02 10:57:45.4964 INFO Hosting environment: Development
+2023-05-02 10:57:45.4964 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2023-05-02 10:57:47.4838 ERROR An unhandled exception has occurred while executing the request.
+2023-05-02 11:11:07.1242 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2023-05-02 11:11:07.4625 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2023-05-02 11:12:18.4202 DEBUG Enter into login
+2023-05-02 11:23:28.1178 DEBUG Enter into login
+2023-05-02 11:39:00.1627 DEBUG Enter into Update Method..
+2023-05-02 11:39:00.1627 DEBUG {"Id":9,"DataRoomName":"Bulk Email Testing","Description":"test","DataRoomSize":"0","RelativePath":"C:\\SharBox/1/9","Guid":"dcd80c1d-4555-4864-b877-06371e881bb9","IsArchivalRequired":true,"IsDeletionRequired":null,"IsLogsRequired":null,"ArchivalPeriod":"12","DeletionPeriod":null,"RetentionPeriod":null,"IsWorkFlowRequired":false,"IsActive":true,"CreatedBy":10105,"CreatorName":"ravi","CreatedOn":"2023-03-03T14:18:54.97","ModifiedBy":10104,"ModifierName":"narayana","ModifiedOn":"2023-04-01T11:42:11.113","DeletedBy":null,"DeletorName":null,"DeletedOn":null,"CompanyId":1,"CompanyName":"Biological E Limited","WorkFlowId":0,"WorkFlowName":null,"ArchivalBasedOn":"Created Date","RetentionBasedOn":"Created Date","DeletionBasedOn":null,"ArchivalType":"Local","ArchivalPath":null,"ArchivalAWSAccessKey":null,"ArchivalAWSSecurityKey":null,"ArchivalAWSRegion":null}
+2023-05-02 11:39:00.2370 DEBUG Exit from Update Method..
+2023-05-02 11:39:00.2370 DEBUG Enter into Update Method..
+2023-05-02 11:39:00.2469 DEBUG {"Id":3147,"FileName":"tf16393606.vstx","ContentType":".vstx","FileSize":"91474","Guid":"2f187802-1572-4de3-87b4-f608693effc0","FolderId":0,"FolderName":"","DataRoomId":9,"DataRoomName":"Bulk Email Testing","FileDescription":"asasas","RelativePath":"C:\\SharBox/1/9\\3147_2","IsArchived":true,"ArchivedOn":"2023-05-02T11:39:00.0669555+05:30","IsDeleted":false,"IsActive":true,"CreatedBy":10104,"CreatorName":"narayana","CreatedOn":"2023-04-01T11:32:12.47","ModifiedBy":10104,"ModifierName":"narayana","ModifiedOn":"2023-04-01T11:42:18.47","DeletedBy":null,"DeletorName":null,"DeletedOn":null,"IsCheckIn":true,"CheckInBy":10104,"CheckInByName":"narayana","CheckInOn":"2023-04-01T11:40:58.64","IsCheckOut":true,"CheckOutBy":10104,"CheckOutByName":"narayana","CheckOutOn":"2023-04-01T11:42:18.47","FileVersion":"2.0","CompanyId":1,"CompanyName":"Databricks","IsWorkFlowRequired":false,"IsApproved":null,"ApprovedBy":null,"ApproverName":null,"ApprovedOn":null,"WaitingWithName":null,"Status":"Submitted"}
+2023-05-02 11:39:00.3247 DEBUG Exit from Update Method..

@@ -1,0 +1,187 @@
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.exe
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.deps.json
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.runtimeconfig.json
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.runtimeconfig.dev.json
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.pdb
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\AspNetCoreRateLimit.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\AutoWrapper.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Web.Http.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\OpenXmlPowerTools.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.Core.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Contracts.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.DataRepository.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Entity.dll
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.DataRepository.pdb
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Contracts.pdb
+D:\Projects\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Entity.pdb
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.csprojAssemblyReference.cache
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.AssemblyInfoInputs.cache
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.AssemblyInfo.cs
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.csproj.CoreCompileInputs.cache
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.csproj.CopyComplete
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\staticwebassets\DataRooms.WEBAPI.StaticWebAssets.Manifest.cache
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\staticwebassets\DataRooms.WEBAPI.StaticWebAssets.xml
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.dll
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.pdb
+D:\Projects\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.genruntimeconfig.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.StaticWebAssets.xml
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.exe
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.deps.json
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.runtimeconfig.json
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.runtimeconfig.dev.json
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.WEBAPI.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\AspNetCoreRateLimit.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\AutoWrapper.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Web.Http.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\OpenXmlPowerTools.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Management.Automation.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Contracts.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.DataRepository.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Entity.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.DataRepository.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Contracts.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\DataRooms.Entity.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.csproj.AssemblyReference.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.AssemblyInfoInputs.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.AssemblyInfo.cs
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.csproj.CoreCompileInputs.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\staticwebassets\DataRooms.WEBAPI.StaticWebAssets.Manifest.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.RazorTargetAssemblyInfo.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.csproj.CopyComplete
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.pdb
+C:\Working Projects\SharBox\DataRooms.WEBAPI\obj\Release\netcoreapp3.1\DataRooms.WEBAPI.genruntimeconfig.cache
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\NLog.config
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\NLog.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\LoggerModule.dll
+C:\Working Projects\SharBox\DataRooms.WEBAPI\bin\Release\netcoreapp3.1\LoggerModule.pdb

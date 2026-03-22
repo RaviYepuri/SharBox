@@ -1,0 +1,33 @@
+2022-11-25 13:19:18.4601 INFO Application started. Press Ctrl+C to shut down.
+2022-11-25 13:19:18.5017 INFO Hosting environment: Development
+2022-11-25 13:19:18.5017 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-11-25 13:19:19.5126 ERROR An unhandled exception has occurred while executing the request.
+2022-11-25 13:19:45.5071 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-11-25 13:19:47.0009 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-25 13:19:47.3353 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-11-25 13:20:04.5753 DEBUG Enter into login
+2022-11-25 13:20:45.9730 DEBUG Enter into Update Method..
+2022-11-25 13:21:00.5481 DEBUG Exit from Update Method..
+2022-11-25 13:21:14.1384 DEBUG Enter into Update Method..
+2022-11-25 13:21:23.1549 DEBUG Exit from Update Method..
+2022-11-25 13:21:44.4509 DEBUG Enter into Update Method..
+2022-11-25 13:21:44.4594 DEBUG Exit from Update Method..
+2022-11-25 13:22:33.5675 DEBUG Enter into Update Method..
+2022-11-25 13:22:35.5110 DEBUG Exit from Update Method..
+2022-11-25 13:22:38.6427 DEBUG Enter into Update Method..
+2022-11-25 13:22:38.6427 DEBUG Exit from Update Method..
+2022-11-25 13:22:54.5199 DEBUG Enter into Update Method..
+2022-11-25 13:22:54.5199 DEBUG Exit from Update Method..
+2022-11-25 13:22:55.1925 DEBUG Enter into Update Method..
+2022-11-25 13:22:55.1925 DEBUG Exit from Update Method..
+2022-11-25 13:25:40.4083 INFO Application started. Press Ctrl+C to shut down.
+2022-11-25 13:25:40.4393 INFO Hosting environment: Development
+2022-11-25 13:25:40.4393 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-11-25 13:25:40.7866 ERROR An unhandled exception has occurred while executing the request.
+2022-11-25 13:25:47.3038 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-11-25 13:26:02.6963 DEBUG Enter into Update Method..
+2022-11-25 13:26:03.2748 DEBUG {"Id":1,"CompanyName":"EBX","RelativePath":"C:\\SharBoxWorkingSpace\\EBX/1","Guid":null,"StorageCategory":"Local","CloudAccessKey":null,"CloudSecurityKey":null,"StoragePath":"C:\\SharBoxWorkingSpace\\EBX","AWSRegion":null,"IsLogsRequired":true,"LogsStoragePath":"C:\\SharBoxWorkingSpace\\EBX\\Logs","IsActive":true,"CreatedBy":0,"CreatorName":"","CreatedOn":"2022-11-25T13:20:36.477","ModifiedBy":0,"ModifierName":"","ModifiedOn":"2022-11-25T13:25:57.4818671+05:30","DeletedBy":null,"DeletorName":null,"DeletedOn":null,"Comments":null,"IsExternalSharingEnabled":true,"SharingUrl":"https://localhost:44367/"}
+2022-11-25 13:26:05.2869 DEBUG Exit from Update Method..
+2022-11-25 13:26:06.0575 DEBUG Enter into Update Method..
+2022-11-25 13:26:06.0575 DEBUG {"Id":1,"IsADSync":null,"IPAddress":null,"DomainName":null,"CompanyId":1,"CompanyName":"/zVnpv4PnyKLPffUOAFKyHvrA+X3VgxqSYo2UhZtVLpZLeqwAYieOMrAZAvuY+gt+9uXs6a3XztiJr6dOE4YvRMe/JUIrGV01f3f8G4pZwnx/L4UJrStdTlinwam7RRE"}
+2022-11-25 13:26:06.0780 DEBUG Exit from Update Method..

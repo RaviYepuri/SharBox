@@ -1,0 +1,216 @@
+2022-09-17 12:20:59.5842 DEBUG Enter into login
+2022-09-17 12:23:26.8140 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 12:23:27.8320 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 12:23:51.0406 DEBUG Enter into login
+2022-09-17 12:25:01.7060 DEBUG Enter into login
+2022-09-17 12:25:21.2988 DEBUG Enter into login
+2022-09-17 12:25:36.6440 DEBUG Enter into login
+2022-09-17 12:29:30.3539 ERROR Failed executing DbCommand (15ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (Size = 4000), @p7='?' (DbType = DateTime2), @p8='?' (DbType = Int32), @p9='?' (Size = 4000), @p10='?' (DbType = Int32), @p11='?' (DbType = DateTime2), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (DbType = Boolean), @p15='?' (DbType = Boolean), @p16='?' (DbType = Int32), @p17='?' (DbType = Int32), @p18='?' (DbType = DateTime2), @p19='?' (Size = 4000), @p20='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ItemTrackerControl] ([ControlMasterData], [ControlName], [ControlReferenceId], [ControlReferenceName], [ControlType], [CreatedBy], [CreatedByName], [CreatedOn], [DataRoomId], [DataRoomName], [DeletedBy], [DeletedOn], [DeletorName], [IsActive], [IsMandatory], [IsVisible], [ItemTrackerId], [ModifiedBy], [ModifiedOn], [ModifierName], [OrderNumber])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19, @p20);
+SELECT [Id]
+FROM [ItemTrackerControl]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-09-17 12:29:30.4466 ERROR An exception occurred in the database while saving changes for context type 'DataRooms.DataRepository.SqlServerContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ItemTrackerControl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:9844c835-be33-4cce-a591-eee62d111085
+Error Number:208,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-09-17 12:29:31.0014 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 12:30:15.9433 ERROR Failed executing DbCommand (33ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (Size = 4000), @p7='?' (DbType = DateTime2), @p8='?' (DbType = Int32), @p9='?' (Size = 4000), @p10='?' (DbType = Int32), @p11='?' (DbType = DateTime2), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (DbType = Boolean), @p15='?' (DbType = Boolean), @p16='?' (DbType = Int32), @p17='?' (DbType = Int32), @p18='?' (DbType = DateTime2), @p19='?' (Size = 4000), @p20='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ItemTrackerControl] ([ControlMasterData], [ControlName], [ControlReferenceId], [ControlReferenceName], [ControlType], [CreatedBy], [CreatedByName], [CreatedOn], [DataRoomId], [DataRoomName], [DeletedBy], [DeletedOn], [DeletorName], [IsActive], [IsMandatory], [IsVisible], [ItemTrackerId], [ModifiedBy], [ModifiedOn], [ModifierName], [OrderNumber])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19, @p20);
+SELECT [Id]
+FROM [ItemTrackerControl]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-09-17 12:30:15.9615 ERROR An exception occurred in the database while saving changes for context type 'DataRooms.DataRepository.SqlServerContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ItemTrackerControl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:9844c835-be33-4cce-a591-eee62d111085
+Error Number:208,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-09-17 12:37:01.2101 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 12:37:01.2561 INFO Hosting environment: Development
+2022-09-17 12:37:01.2561 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 12:37:01.8095 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 12:37:06.4999 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 12:37:06.8999 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 12:38:25.1739 DEBUG Enter into login
+2022-09-17 12:39:58.2975 ERROR Failed executing DbCommand (44ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (Size = 4000), @p7='?' (DbType = DateTime2), @p8='?' (DbType = Int32), @p9='?' (Size = 4000), @p10='?' (DbType = Int32), @p11='?' (DbType = DateTime2), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (DbType = Boolean), @p15='?' (DbType = Boolean), @p16='?' (DbType = Int32), @p17='?' (DbType = Int32), @p18='?' (DbType = DateTime2), @p19='?' (Size = 4000), @p20='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ItemTrackerControl] ([ControlMasterData], [ControlName], [ControlReferenceId], [ControlReferenceName], [ControlType], [CreatedBy], [CreatedByName], [CreatedOn], [DataRoomId], [DataRoomName], [DeletedBy], [DeletedOn], [DeletorName], [IsActive], [IsMandatory], [IsVisible], [ItemTrackerId], [ModifiedBy], [ModifiedOn], [ModifierName], [OrderNumber])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19, @p20);
+SELECT [Id]
+FROM [ItemTrackerControl]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-09-17 12:39:58.3380 ERROR An exception occurred in the database while saving changes for context type 'DataRooms.DataRepository.SqlServerContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:82fc02aa-b6be-4b57-92ee-6a165c3e88c3
+Error Number:242,State:3,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-09-17 12:45:51.1604 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 12:45:51.2059 INFO Hosting environment: Development
+2022-09-17 12:45:51.2059 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 12:45:51.6781 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 12:46:33.8169 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 12:46:34.4646 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 12:46:47.6272 DEBUG Enter into login
+2022-09-17 13:10:39.4659 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 13:10:39.5170 INFO Hosting environment: Development
+2022-09-17 13:10:39.5170 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 13:10:40.4483 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 13:11:04.3813 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 13:11:05.0771 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 13:11:20.5331 DEBUG Enter into login
+2022-09-17 13:45:04.1317 DEBUG Enter into login
+2022-09-17 13:45:04.1317 DEBUG Enter into login
+2022-09-17 13:45:21.8157 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 13:45:21.8685 INFO Hosting environment: Development
+2022-09-17 13:45:21.8685 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 13:45:22.6517 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 13:45:38.2467 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 13:45:39.2905 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 13:46:06.5957 DEBUG Enter into login
+2022-09-17 18:19:34.0289 DEBUG Enter into login
+2022-09-17 18:19:52.4221 DEBUG Enter into login
+2022-09-17 19:58:54.9041 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 19:58:54.9575 INFO Hosting environment: Development
+2022-09-17 19:58:54.9575 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 19:58:55.6080 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 20:03:05.8512 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 20:03:05.8927 INFO Hosting environment: Development
+2022-09-17 20:03:05.9222 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 20:03:06.3679 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 20:03:24.3741 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 20:03:25.0531 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 20:03:58.3965 DEBUG Enter into login
+2022-09-17 20:26:08.9581 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 20:26:09.0229 INFO Hosting environment: Development
+2022-09-17 20:26:09.0229 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 20:26:09.8937 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 20:26:25.6831 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 20:26:26.3803 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 20:27:07.3453 DEBUG Enter into login
+2022-09-17 20:27:25.9919 ERROR Failed executing DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [i].[Id], [i].[ControlGuid], [i].[ControlMasterData], [i].[ControlName], [i].[ControlReferenceId], [i].[ControlReferenceName], [i].[ControlType], [i].[CreatedBy], [i].[CreatedByName], [i].[CreatedOn], [i].[DataRoomId], [i].[DataRoomName], [i].[DeletedBy], [i].[DeletedOn], [i].[DeletorName], [i].[IsActive], [i].[IsMandatory], [i].[IsVisible], [i].[ItemTrackerId], [i].[ModifiedBy], [i].[ModifiedOn], [i].[ModifierName], [i].[OrderNumber]
+FROM [ItemTrackerControl] AS [i]
+2022-09-17 20:27:26.0648 ERROR An exception occurred while iterating over the results of a query for context type 'DataRooms.DataRepository.SqlServerContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ControlGuid'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(DbContext _, Boolean result, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:69e8d60e-88b6-41d7-99dd-637b626bd9e5
+Error Number:207,State:1,Class:16
+2022-09-17 20:27:39.2426 ERROR Failed executing DbCommand (11ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Int32), @p7='?' (Size = 4000), @p8='?' (DbType = DateTime2), @p9='?' (DbType = Int32), @p10='?' (Size = 4000), @p11='?' (DbType = Int32), @p12='?' (DbType = DateTime2), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (DbType = Boolean), @p16='?' (DbType = Boolean), @p17='?' (DbType = Int32), @p18='?' (DbType = Int32), @p19='?' (DbType = DateTime2), @p20='?' (Size = 4000), @p21='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ItemTrackerControl] ([ControlGuid], [ControlMasterData], [ControlName], [ControlReferenceId], [ControlReferenceName], [ControlType], [CreatedBy], [CreatedByName], [CreatedOn], [DataRoomId], [DataRoomName], [DeletedBy], [DeletedOn], [DeletorName], [IsActive], [IsMandatory], [IsVisible], [ItemTrackerId], [ModifiedBy], [ModifiedOn], [ModifierName], [OrderNumber])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19, @p20, @p21);
+SELECT [Id]
+FROM [ItemTrackerControl]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-09-17 20:27:39.3119 ERROR An exception occurred in the database while saving changes for context type 'DataRooms.DataRepository.SqlServerContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ControlGuid'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:69e8d60e-88b6-41d7-99dd-637b626bd9e5
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-09-17 20:27:39.9611 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 20:34:03.4494 DEBUG Enter into login
+2022-09-17 20:41:24.0412 DEBUG Enter into login
+2022-09-17 20:46:56.4416 DEBUG Enter into login
+2022-09-17 20:53:08.4473 DEBUG Enter into login
+2022-09-17 21:19:48.3392 DEBUG Enter into login
+2022-09-17 21:54:41.1779 DEBUG Enter into login
+2022-09-17 22:16:35.9419 INFO Application started. Press Ctrl+C to shut down.
+2022-09-17 22:16:35.9877 INFO Hosting environment: Development
+2022-09-17 22:16:36.0028 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-17 22:16:36.4524 ERROR An unhandled exception has occurred while executing the request.
+2022-09-17 22:18:47.6428 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 22:18:47.9838 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-17 22:19:01.0724 DEBUG Enter into login

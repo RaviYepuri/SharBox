@@ -1,0 +1,27 @@
+2022-10-11 10:35:37.3176 INFO Application started. Press Ctrl+C to shut down.
+2022-10-11 10:35:37.4223 INFO Hosting environment: Development
+2022-10-11 10:35:37.4223 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-10-11 10:35:39.3183 ERROR An unhandled exception has occurred while executing the request.
+2022-10-11 10:36:51.3219 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-10-11 10:36:52.2175 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-10-11 10:37:26.1468 DEBUG Enter into login
+2022-10-11 10:48:46.7443 DEBUG Enter into login
+2022-10-11 10:48:46.7443 DEBUG Enter into login
+2022-10-11 10:49:01.1167 DEBUG Enter into login
+2022-10-11 11:00:39.7987 DEBUG Web Service--0
+2022-10-11 11:19:04.3613 DEBUG Enter into login
+2022-10-11 11:19:04.5810 DEBUG Enter into login
+2022-10-11 11:56:30.8834 DEBUG Enter into login
+2022-10-11 12:00:21.1950 DEBUG Web Service--0
+2022-10-11 12:27:49.6369 DEBUG Enter into login
+2022-10-11 12:52:37.8746 DEBUG Enter into login
+2022-10-11 13:00:21.1274 DEBUG Web Service--0
+2022-10-11 13:23:07.9752 DEBUG Enter into login
+2022-10-11 13:35:49.1775 DEBUG Enter into login
+2022-10-11 13:35:49.1775 DEBUG Enter into login
+2022-10-11 13:36:11.3284 DEBUG Enter into login
+2022-10-11 14:00:21.1362 DEBUG Web Service--0
+2022-10-11 14:18:58.5369 DEBUG Enter into login
+2022-10-11 14:43:12.2797 DEBUG Enter into login
+2022-10-11 14:44:39.1378 DEBUG Enter into login
+2022-10-11 15:00:21.1740 DEBUG Web Service--0

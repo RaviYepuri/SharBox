@@ -1,0 +1,64 @@
+2022-09-26 00:23:00.3390 DEBUG Enter into login
+2022-09-26 00:52:06.4758 DEBUG Enter into login
+2022-09-26 01:19:31.3106 DEBUG Enter into login
+2022-09-26 01:53:44.9213 DEBUG Enter into login
+2022-09-26 11:52:15.6317 DEBUG Enter into login
+2022-09-26 12:13:30.1719 INFO Application started. Press Ctrl+C to shut down.
+2022-09-26 12:13:30.3050 INFO Hosting environment: Development
+2022-09-26 12:13:30.3172 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-26 12:13:31.4861 ERROR An unhandled exception has occurred while executing the request.
+2022-09-26 12:13:55.5110 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-26 12:13:56.3994 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-26 12:13:56.9702 ERROR An exception occurred while iterating over the results of a query for context type 'DataRooms.DataRepository.SqlServerContext'.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_Int32()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetInt32(Int32 i)
+   at lambda_method(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2022-09-26 12:14:24.4003 DEBUG Enter into login
+2022-09-26 12:15:13.0950 ERROR An exception occurred while iterating over the results of a query for context type 'DataRooms.DataRepository.SqlServerContext'.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_Int32()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetInt32(Int32 i)
+   at lambda_method(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2022-09-26 12:34:49.4009 DEBUG Enter into login
+2022-09-26 13:00:21.2537 DEBUG Web Service--0
+2022-09-26 13:08:25.5259 DEBUG Enter into login
+2022-09-26 13:13:01.6146 DEBUG Enter into login
+2022-09-26 13:35:58.2451 DEBUG Enter into login
+2022-09-26 13:43:54.1030 DEBUG Enter into login
+2022-09-26 14:00:21.2530 DEBUG Web Service--0
+2022-09-26 14:08:24.2291 DEBUG Enter into login
+2022-09-26 14:13:46.2850 DEBUG Enter into login
+2022-09-26 14:15:59.2464 DEBUG Enter into login
+2022-09-26 14:20:25.3451 DEBUG Enter into login
+2022-09-26 15:53:06.5014 DEBUG Web Service--0
+2022-09-26 17:08:54.7353 DEBUG Enter into login
+2022-09-26 17:36:38.4940 DEBUG Enter into login
+2022-09-26 17:42:45.6098 DEBUG Enter into login
+2022-09-26 17:44:48.1602 DEBUG Enter into login
+2022-09-26 17:47:39.6558 DEBUG Enter into login
+2022-09-26 17:52:11.8383 INFO Application started. Press Ctrl+C to shut down.
+2022-09-26 17:52:11.9466 INFO Hosting environment: Development
+2022-09-26 17:52:11.9603 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-26 17:52:13.0522 ERROR An unhandled exception has occurred while executing the request.
+2022-09-26 17:57:25.1407 INFO Application started. Press Ctrl+C to shut down.
+2022-09-26 17:57:25.1784 INFO Hosting environment: Development
+2022-09-26 17:57:25.1784 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-26 17:57:25.6723 ERROR An unhandled exception has occurred while executing the request.
+2022-09-26 17:58:58.3063 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-26 17:58:59.2462 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-26 17:59:32.6192 DEBUG Enter into login
+2022-09-26 18:00:46.0924 DEBUG Web Service--0
+2022-09-26 18:18:56.6744 INFO Application started. Press Ctrl+C to shut down.
+2022-09-26 18:18:56.7380 INFO Hosting environment: Development
+2022-09-26 18:18:56.7380 INFO Content root path: C:\Working Projects\SharBox\DataRooms.WEBAPI
+2022-09-26 18:18:57.4166 ERROR An unhandled exception has occurred while executing the request.
+2022-09-26 18:21:08.2159 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-26 18:21:08.9197 WARN The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2022-09-26 18:21:22.4778 DEBUG Enter into login
+2022-09-26 19:29:24.1863 DEBUG Web Service--0
+2022-09-26 21:05:19.7045 DEBUG Web Service--0
