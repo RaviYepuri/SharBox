@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kU1mdxhqbjon1QqmQ0etwzBsPgxUTpRRbUNoahLHnioF9Z30Hn8fCiF9fXR7bI5QDZ2Dr6A++bnntSSa9He4Ow==",
+  "success": true,
+  "projectFilePath": "C:\\GIT Projects\\SharBox Application\\SharBox\\SharBox\\DataRooms.Contracts\\DataRooms.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Texas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Texas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Texas\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Texas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
