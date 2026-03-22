@@ -1,0 +1,10 @@
+C:\Working Projects\SharBox\LoggerModule\bin\Release\netcoreapp3.1\LoggerModule.deps.json
+C:\Working Projects\SharBox\LoggerModule\bin\Release\netcoreapp3.1\LoggerModule.dll
+C:\Working Projects\SharBox\LoggerModule\bin\Release\netcoreapp3.1\LoggerModule.pdb
+C:\Working Projects\SharBox\LoggerModule\obj\Release\netcoreapp3.1\LoggerModule.csproj.AssemblyReference.cache
+C:\Working Projects\SharBox\LoggerModule\obj\Release\netcoreapp3.1\LoggerModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Projects\SharBox\LoggerModule\obj\Release\netcoreapp3.1\LoggerModule.AssemblyInfoInputs.cache
+C:\Working Projects\SharBox\LoggerModule\obj\Release\netcoreapp3.1\LoggerModule.AssemblyInfo.cs
+C:\Working Projects\SharBox\LoggerModule\obj\Release\netcoreapp3.1\LoggerModule.csproj.CoreCompileInputs.cache
+C:\Working Projects\SharBox\LoggerModule\obj\Release\netcoreapp3.1\LoggerModule.dll
+C:\Working Projects\SharBox\LoggerModule\obj\Release\netcoreapp3.1\LoggerModule.pdb

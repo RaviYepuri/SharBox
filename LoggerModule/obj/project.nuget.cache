@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "azAzdlbGDGXhTMeUUvZsDLdAMSUo8FeRKUIHVJfn8/mpXPO4dGYtKCFU59BZhFIwRlIKKk1Q9Slx6gER5d8BTA==",
+  "success": true,
+  "projectFilePath": "C:\\GIT Projects\\SharBox Application\\SharBox\\SharBox\\LoggerModule\\LoggerModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Texas\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
