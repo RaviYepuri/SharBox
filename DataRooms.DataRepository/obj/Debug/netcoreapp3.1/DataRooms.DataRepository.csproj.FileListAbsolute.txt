@@ -1,0 +1,49 @@
+D:\Projects\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.deps.json
+D:\Projects\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.dll
+D:\Projects\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.pdb
+D:\Projects\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Contracts.dll
+D:\Projects\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Entity.dll
+D:\Projects\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Contracts.pdb
+D:\Projects\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Entity.pdb
+D:\Projects\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csprojAssemblyReference.cache
+D:\Projects\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.AssemblyInfoInputs.cache
+D:\Projects\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.AssemblyInfo.cs
+D:\Projects\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csproj.CoreCompileInputs.cache
+D:\Projects\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csproj.CopyComplete
+D:\Projects\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.dll
+D:\Projects\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.pdb
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.deps.json
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.dll
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.pdb
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Contracts.dll
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Entity.dll
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\LoggerModule.dll
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Contracts.pdb
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Entity.pdb
+C:\Working Projects\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\LoggerModule.pdb
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csproj.AssemblyReference.cache
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.AssemblyInfoInputs.cache
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.AssemblyInfo.cs
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csproj.CoreCompileInputs.cache
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csproj.CopyComplete
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.dll
+C:\Working Projects\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.pdb
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.deps.json
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.dll
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.DataRepository.pdb
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Contracts.dll
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Entity.dll
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\LoggerModule.dll
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Contracts.pdb
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\DataRooms.Entity.pdb
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\bin\Debug\netcoreapp3.1\LoggerModule.pdb
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csproj.AssemblyReference.cache
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.AssemblyInfoInputs.cache
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.AssemblyInfo.cs
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.csproj.CoreCompileInputs.cache
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.sourcelink.json
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRoom.0F7BC74E.Up2Date
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.dll
+C:\GIT Projects\SharBox Application\SharBox\SharBox\DataRooms.DataRepository\obj\Debug\netcoreapp3.1\DataRooms.DataRepository.pdb
