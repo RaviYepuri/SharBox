@@ -1,0 +1,30 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
+
+namespace DataRooms.Entity
+{
+    public class User
+    {
+        [Key]
+        public int Id { get; set; }
+        public string FullName { get; set; }
+        public string UserName { get; set; }
+        [JsonIgnore]
+        public string Password { get; set; }
+        public string EmailId { get; set; }
+        public bool IsADUser { get; set; }
+        public bool IsActive { get; set; }
+        public int CreatedBy { get; set; }
+        public string CreatorName { get; set; }
+        public DateTime? CreatedOn { get; set; }
+        public int? ModifiedBy { get; set; }
+        public string ModifierName { get; set; }
+        public DateTime? ModifiedOn { get; set; }
+        public int? DeletedBy { get; set; }
+        public string DeletorName { get; set; }
+        public DateTime? DeletedOn { get; set; }
+        public int CompanyId { get; set; }
+        public string CompanyName { get; set; }
+    }
+}

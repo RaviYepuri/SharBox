@@ -1,0 +1,19 @@
+D:\Projects\DataRooms.Entity\bin\Release\netcoreapp3.1\DataRooms.Entity.deps.json
+D:\Projects\DataRooms.Entity\bin\Release\netcoreapp3.1\DataRooms.Entity.dll
+D:\Projects\DataRooms.Entity\bin\Release\netcoreapp3.1\DataRooms.Entity.pdb
+D:\Projects\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.csprojAssemblyReference.cache
+D:\Projects\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.AssemblyInfoInputs.cache
+D:\Projects\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.AssemblyInfo.cs
+D:\Projects\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.csproj.CoreCompileInputs.cache
+D:\Projects\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.dll
+D:\Projects\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.pdb
+C:\Working Projects\SharBox\DataRooms.Entity\bin\Release\netcoreapp3.1\DataRooms.Entity.deps.json
+C:\Working Projects\SharBox\DataRooms.Entity\bin\Release\netcoreapp3.1\DataRooms.Entity.dll
+C:\Working Projects\SharBox\DataRooms.Entity\bin\Release\netcoreapp3.1\DataRooms.Entity.pdb
+C:\Working Projects\SharBox\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.csproj.AssemblyReference.cache
+C:\Working Projects\SharBox\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Projects\SharBox\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.AssemblyInfoInputs.cache
+C:\Working Projects\SharBox\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.AssemblyInfo.cs
+C:\Working Projects\SharBox\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.csproj.CoreCompileInputs.cache
+C:\Working Projects\SharBox\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.dll
+C:\Working Projects\SharBox\DataRooms.Entity\obj\Release\netcoreapp3.1\DataRooms.Entity.pdb
